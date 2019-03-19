@@ -9,7 +9,7 @@
 
 - [中国农业农村部](<http://www.moa.gov.cn/>)。中央各类涉农政策及重要信息公布网站。最下方有机关子站、直属单位网站、各部门网站、地方农业网站的链接，可以说涵盖了行业内的重大信息。
 
-![1552917880219](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1552917880219.png)
+![image.png](https://upload-images.jianshu.io/upload_images/15418870-9d603dba335fae14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 涉农新闻
 
@@ -66,11 +66,13 @@
 
 ### 农业政策梳理框架
 
-![1552896477148](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1552896477148.png)
+![image.png](https://upload-images.jianshu.io/upload_images/15418870-01ef3edf7eff57b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### 农业产业界定及分类
 
 此思维导图根据国家公布的行业界定及划分整理。
+![image.png](https://upload-images.jianshu.io/upload_images/15418870-1d6c6a4ce3661aa6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![1552896495418](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1552896495418.png)
+可增加不同模块信息或对已有模块补充/纠正、增加的内容要求附上网址并一句话简介。
 
