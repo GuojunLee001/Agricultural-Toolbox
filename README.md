@@ -148,7 +148,7 @@ Ps.部分网站需梯子。
 ### 其他
 
 - [Top 20 Farming Blogs, Websites & Newsletters for Farmers](<https://blog.feedspot.com/farming_blogs/>)
-- [[中国农业网址导航](http://site.agronet.com.cn/)](<http://site.agronet.com.cn/>)。汇集各类农业网址，若不知道需要找的信息源，可通过该网址查询，可大大节省时间。
+- [中国农业网址导航](http://site.agronet.com.cn/)。汇集各类农业网址，若不知道需要找的信息源，可通过该网址查询，可大大节省时间。
 
 ### changelog
 
