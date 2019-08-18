@@ -26,7 +26,7 @@ Ps.部分网站需梯子。
 - [农业行业观察](<http://www.nyguancha.com/>)。一家关注农业新业态、新经济的社群新媒体
 - [120余家农业媒体大V齐聚北京，年度优秀三农新媒体榜单发布！ ](<http://www.sohu.com/a/218912225_687147>)。该活动由[中国农业信息联盟](<http://lianmeng.wugu.com.cn/>)发起，每年评选优质涉农媒体，可以以这份榜单为参考。2018年榜单参考[重磅：2018年农业新媒体年度榜单发布](<https://feng.ifeng.com/c/7jSE3oSDJFx>)
 
-### [全球十大农业出版社](top 10 agriculture publications )
+### [全球十大农业出版社](top 10 agriculture publications)
 
 - [Progressive Farmer](http://www.dtnprogressivefarmer.com/dtnag/)
 - [Agri News](http://www.agrinews-pubs.com/)
@@ -139,7 +139,7 @@ Ps.部分网站需梯子。
 
 - 包括养殖（家畜、家禽、水产养殖、特种养殖等）、种植（苗木、水果）等均有行业垂直网站，可通过[此链接](<http://www.agronet.com.cn/>)转到相关信息部分。
 - [前瞻研究院-产业规划部](<https://f.qianzhan.com/tesexiaozhen/>)
-- [中农富通]( )
+- [中农富通](http://www.caufutong.com/)
 - [土流网](http://www.tudichuzu.com/)。中国最大的土地流转服务网站。
 - [农业标准化示范区信息平台](<http://sfq.sac.gov.cn/home;jsessionid=AE5CED768BA9A497775B0B26016C0397>)。
 - [富达尔咨询](<http://www.fdarcity.com/default.aspx>)。地方区域规划。
